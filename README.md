@@ -1,6 +1,6 @@
 # AIUB CGPA Calculator 
 
-A simple and user-friendly web-based CGPA Calculator designed to help AIUB students accurately calculate their CGPA based on the university's grading policy.
+A simple and user-friendly web-based CGPA Calculator designed to help **`AIUB`** students accurately calculate their CGPA based on the university's grading policy.
 
 ## Live Link
 

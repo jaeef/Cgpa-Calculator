@@ -31,7 +31,7 @@ Check out the live version of the CGPA Calculator here: [CGPA Calculator Website
 
 Enter the course credits and corresponding grades.
 
-Click on the "Calculate" button.
+Click on the **`"Calculate CGPA"`**  button.
 
 The CGPA will be displayed based on the entered data.
 

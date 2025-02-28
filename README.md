@@ -50,6 +50,6 @@ Fork the repository
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/microsoft/calculator/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
  

@@ -6,6 +6,8 @@ A simple and user-friendly web-based CGPA Calculator designed to help **`AIUB`**
 
 Check out the live version of the CGPA Calculator here: [CGPA Calculator Website](https://aiub-cgpa--calculator-wv9va.ondigitalocean.app/)
 
+![AIUB -CGPA-Calculator](https://github.com/user-attachments/assets/7d7378f2-5538-4ed5-9ce9-0df30426fe89)
+
 ## Features
 - Calculate Course without writing Name of courses
 - Supports 3, 2, and 1 credit courses
